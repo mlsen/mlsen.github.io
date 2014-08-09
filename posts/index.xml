@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on  </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>/posts/index.xml</link>
+    
+    
+    
+    <updated>Sat, 09 Aug 2014 08:06:00 UTC</updated>
+    
+    <item>
+      <title>Der erste Test</title>
+      <link>/posts/der-erste-test</link>
+      <pubDate>Sat, 09 Aug 2014 08:06:00 UTC</pubDate>
+      
+      <guid>/posts/der-erste-test</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Hallo Hallo&lt;/h1&gt;
+
+&lt;p&gt;Der Wahnsinn!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt quos, excepturi rerum quae eveniet velit expedita libero sit aut molestias quo harum, magnam provident necessitatibus reprehenderit eos explicabo distinctio sunt doloribus consequuntur eaque omnis dolore quasi vero. Tempora corporis deserunt molestias totam maiores, dolore! Aliquid itaque veniam facilis, quo et quasi dolore ad iure ex, dolores, aspernatur quibusdam explicabo saepe illo, eligendi quaerat nobis quis quisquam. Labore asperiores eos perferendis ea mollitia! Atque voluptatum, ipsa nostrum eum voluptas sunt labore sint dicta quam omnis adipisci corrupti quibusdam minus soluta totam molestiae aspernatur, reprehenderit, aliquid dolorum, temporibus. Ipsum voluptas quo, veniam!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
